@@ -1,0 +1,6 @@
+{
+  "name": "SmartDonate - Decentralized Crowdfunding & Milestone Escrow",
+  "description": "Transparent Web3 crowdfunding platform with milestone-based escrow, cryptographic proof verification, on-chain transaction history, and an immutable audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
